@@ -1,0 +1,12 @@
+{
+    "name": "qcovery/relevance-picker",
+    "description": "Relevance picker module for VuFind",
+    "type": "qcovery-module",
+    "require": {
+        "php": ">=7.3",
+        "qcovery/vufind-composer-installer-plugin": "*"
+    },
+    "extra": {
+        "moduleName": "RelevancePicker"
+    }
+}
